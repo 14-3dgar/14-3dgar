@@ -21,7 +21,7 @@ I'm also improving my skills in ☕Java and 🦀Rust.
 <code><img height="40" width="40" src= "https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945099.png"></code>
 <code><img height="40" width="40" src= "https://pterodactyl-website.pages.dev/gallery/logo-icon.png"></code>
 <code><img height="40" width="40" src= "https://i.imgur.com/bLIpNkL.png"></code>
-<code><img height="40" width="40" src= "https://cdn.worldvectorlogo.com/logos/windows-server-2.svg"></code>
+<code><img height="40" width="40" src= "https://i.imgur.com/RO0wny2.png"></code>
 <code><img height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Google_Admin_icon.svg/2194px-Google_Admin_icon.svg.png"></code>
 <code><img height="40" width="40" src= "https://store-images.s-microsoft.com/image/apps.49046.14590360557032091.5972da3f-cebc-43e1-ab2f-7f8dc310fc45.9da6ae81-6d83-49f9-8533-89672c507050"></code>
 <code><img height="40" width="40" src= "https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>

@@ -28,7 +28,7 @@ I'm also improving my skills in ☕Java and 🦀Rust.
 
 
 # My Github stats
-![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=14-3dgar&hide=issues&show_icons=true&theme=gotham&include_all_commits=true)
+![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=14-3dgar&hide=issues&show_icons=true&theme=gotham&include_all_commits=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14-3dgar&layout=compact&theme=gotham)
 
 

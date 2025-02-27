@@ -8,6 +8,8 @@
 # About me
 Currently studying microcomputing and networks from Cultural Badalona (Barcelona, Spain). I love to code, play games, and learn new stuff 🚀
 
+I'm also improving my skills in ☕Java and 🦀Rust.
+
 # Technologies i know
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>

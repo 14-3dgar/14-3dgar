@@ -1,7 +1,7 @@
 
 # Hello :wave:, I am Edgar 😃 
 - 📌 A Computer and Networks student
-- 💻 Programmer with experience in Python, JavaScript, Rust, Java and Scratch.  
+- 💻 Programmer with experience in JavaScript, Rust, Java and Scratch.  
 - 🎮 Passionate about 3D rendering optimization and efficient system development.
 - 💡 Always open to learning and collaborating on interesting projects.
 
